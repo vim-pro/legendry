@@ -20,6 +20,7 @@ Table of Contents
     * 2.4 [Operating Environment](#24-operating-environment)
     * 2.5 [Design and Implementation Constraints](#25-design-and-implementation-constraints)
     * 2.6 [User Documentation](#26-user-documentation)
+        * 2.6.1 [Online User Documentation](#261-online-user-documentation)
     * 2.7 [Assumptions and Dependencies](#27-assumptions-and-dependencies)
   * [External Interface Requirements](#external-interface-requirements)
     * 3.1 [User Interfaces](#31-user-interfaces)
@@ -76,6 +77,10 @@ Table of Contents
 > Describe any items or issues that will limit the options available to the developers. These might include: corporate or regulatory policies; hardware limitations (timing requirements, memory requirements); interfaces to other applications; specific technologies, tools, and databases to be used; parallel operations; language requirements; communications protocols; security considerations; design conventions or programming standards (for example, if the customer’s organization will be responsible for maintaining the delivered software).
 ### 2.6 User Documentation
 > List the user documentation components (such as user manuals, on-line help, and tutorials) that will be delivered along with the software. Identify any known user documentation delivery formats or standards.
+#### 2.6.1 Online User Documentation
+For general documentation, API reference, tutorials visit https://docs.vim-pro.com.
+
+> The Online User Documentation is written in and accessible at https://gitbook.com.
 ### 2.7 Assumptions and Dependencies
 > List any assumed factors (as opposed to known facts) that could affect the requirements stated in the SRS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project, unless they are already documented elsewhere (for example, in the vision and scope document or the project plan).
 ## External Interface Requirements

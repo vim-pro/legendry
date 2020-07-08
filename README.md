@@ -1,9 +1,8 @@
 # Software Requirements Specification
-## For  \<project name\>
-Version 0.0.0  
-\<organization\>  
-\<date created\>, \<date last edited\>  
-Prepared by \<authors\>  
+## For  vim-pro
+Version alpha  
+7/7/2020, 7/7/2020  
+Prepared by [@z2e3r40o](https://github.com/z2e3r40o)  
 
 Table of Contents
 =================
@@ -47,7 +46,7 @@ Table of Contents
 ## Revision History
 | Name | Date    | Reason For Changes  | Version   |
 | ---- | ------- | ------------------- | --------- |
-|      |         |                     |           |
+| [@z2e3r40o](https://github.com/z2e3r40o) | 7/7/20 | Initial preparation | alpha |
 |      |         |                     |           |
 |      |         |                     |           |
 

@@ -1,7 +1,7 @@
 # Software Requirements Specification
 ## For  vim-pro
 Version alpha  
-7/7/2020, 7/7/2020  
+7/7/2020, 7/8/2020  
 Prepared by [@z2e3r40o](https://github.com/z2e3r40o)  
 
 Table of Contents
@@ -48,6 +48,7 @@ Table of Contents
 | Name | Date    | Reason For Changes  | Version   |
 | ---- | ------- | ------------------- | --------- |
 | [@z2e3r40o](https://github.com/z2e3r40o) | 7/7/20 | Initial preparation | alpha |
+| [@z2e3r40o](https://github.com/z2e3r40o) | 7/8/20 | Online documentation | alpha |
 |      |         |                     |           |
 |      |         |                     |           |
 

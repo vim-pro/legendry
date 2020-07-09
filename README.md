@@ -100,8 +100,9 @@ For general documentation, API reference, tutorials visit https://docs.vim-pro.c
 > This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.
 ### 4.1 Settings
 
-| quick info | |
+| | |
 |----|----|
+| Description | All configuration and vimfile management related to `vim-pro` |
 | Prefix | `,` |
 | Online docs | https://docs.vim-pro.com/user-docs/settings |
 
@@ -117,8 +118,11 @@ The settings for `vim-pro` have been organized logically into the following sect
 | Appearance    | Colors |
 | Editing       | Line numbers, tabs, etc. |
 | Bindings      | All vim-pro bindings for all modes |
+</details>
 
 #### 4.1.1 Navigate to Settings
+<details>
+ <summary>Expand</summary>
 | binding | function |
 |---------|----------|
 | `<leader>,`  | Open main settings file (`.vimrc`) |
@@ -127,13 +131,15 @@ The settings for `vim-pro` have been organized logically into the following sect
 | `<leader>,a` | Open appearance settings |
 | `<leader>,e` | Open editing settings |
 | `<leader>,b` | Open bindings settings |
+ </details>
 
 #### 4.1.2 Load Settings
+<details>
+ <summary>Expand</summary>
 | binding | function |
 |---------|----------|
 | `<leader>,r` | Source main settings file (`.vimrc`) |
 | `<leader>,rr` | Source current buffer |
-
 </details>
 
 ### 4.2 System Feature 2 (and so on)

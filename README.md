@@ -105,7 +105,10 @@ For general documentation, API reference, tutorials visit https://docs.vim-pro.c
 | Prefix | `,` |
 | Online docs | https://docs.vim-pro.com/user-docs/settings |
 
-The settings for `vim-pro` have been organized logically (or an attempt was made at least). The breakdown, currently, is:
+<details>
+ <summary>Expand</summary>
+
+The settings for `vim-pro` have been organized logically into the following sections:
 
 | settings name | description |
 |---------------|-------------|
@@ -130,6 +133,8 @@ The settings for `vim-pro` have been organized logically (or an attempt was made
 |---------|----------|
 | `<leader>,r` | Source main settings file (`.vimrc`) |
 | `<leader>,rr` | Source current buffer |
+
+</details>
 
 ### 4.2 System Feature 2 (and so on)
 

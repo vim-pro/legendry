@@ -118,11 +118,13 @@ The settings for `vim-pro` have been organized logically into the following sect
 | Appearance    | Colors |
 | Editing       | Line numbers, tabs, etc. |
 | Bindings      | All vim-pro bindings for all modes |
+
 </details>
 
 #### 4.1.1 Navigate to Settings
 <details>
  <summary>Expand</summary>
+ 
 | binding | function |
 |---------|----------|
 | `<leader>,`  | Open main settings file (`.vimrc`) |
@@ -131,15 +133,18 @@ The settings for `vim-pro` have been organized logically into the following sect
 | `<leader>,a` | Open appearance settings |
 | `<leader>,e` | Open editing settings |
 | `<leader>,b` | Open bindings settings |
+
  </details>
 
 #### 4.1.2 Load Settings
 <details>
  <summary>Expand</summary>
+ 
 | binding | function |
 |---------|----------|
 | `<leader>,r` | Source main settings file (`.vimrc`) |
 | `<leader>,rr` | Source current buffer |
+
 </details>
 
 ### 4.2 System Feature 2 (and so on)

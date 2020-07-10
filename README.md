@@ -127,7 +127,7 @@ The settings for `vim-pro` have been organized logically into the following sect
  
 | binding | function |
 |---------|----------|
-| `<leader>,`  | Open main settings file (`.vimrc`) |
+| `<leader>,,`  | Open main settings file (`.vimrc`) |
 | `<leader>,g` | Open general settings |
 | `<leader>,p` | Open plugins settings |
 | `<leader>,a` | Open appearance settings |
@@ -143,7 +143,7 @@ The settings for `vim-pro` have been organized logically into the following sect
 | binding | function |
 |---------|----------|
 | `<leader>,r` | Source main settings file (`.vimrc`) |
-| `<leader>,rr` | Source current buffer |
+| `<leader>,l` | Source current buffer |
 
 </details>
 

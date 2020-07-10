@@ -31,7 +31,8 @@ Table of Contents
     * 4.1 [Settings](#41-settings)
       * 4.1.1 [Navigate to Settings](#411-navigate-to-settings)
       * 4.1.2 [Load Settings](#412-load-settings)
-    * 4.2 [System Feature 2 (and so on)](#42-system-feature-2-and-so-on)
+    * 4.2 [Plugins](#42-plugins)
+      * 4.2.1 [Manage Plugins](#421-manage-plugins)
   * [Other Nonfunctional Requirements](#other-nonfunctional-requirements)
     * 5.1 [Performance Requirements](#51-performance-requirements)
     * 5.2 [Safety Requirements](#52-safety-requirements)
@@ -147,7 +148,27 @@ The settings for `vim-pro` have been organized logically into the following sect
 
 </details>
 
-### 4.2 System Feature 2 (and so on)
+### 4.2 Plugins
+
+| | |
+|----|----|
+| Description | Plugin management |
+| Prefix | `p` |
+| Online docs | https://docs.vim-pro.com/user-docs/plugins |
+
+#### 4.2.1 Manage Plugins
+<details>
+ <summary>Expand</summary>
+ 
+| binding | function |
+|---------|----------|
+| `<leader>pi`  | Install plugins |
+| `<leader>pu` | Install or update plugins |
+| `<leader>pc` | Clean out unlisted plugins |
+| `<leader>pu` | Upgrade plugin system |
+| `<leader>ps` | Check the status of plugins |
+
+</details>
 
 ## Other Nonfunctional Requirements
 ### 5.1 Performance Requirements

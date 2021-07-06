@@ -133,6 +133,7 @@ The settings for `vim-pro` have been organized logically into the following sect
 | `<leader>,a` | Open appearance settings |
 | `<leader>,e` | Open editing settings |
 | `<leader>,b` | Open bindings settings |
+| `<leader>,f` | Search settings |
 
  </details>
 
